@@ -59,7 +59,7 @@ This project demonstrates a basic **decentralized P2P network** where:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/devp2p-basics.git
+   git clone https://github.com/harystyleseze/devp2p-basics.git
    cd devp2p-basics
    ```
 
